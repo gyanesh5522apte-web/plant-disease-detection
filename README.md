@@ -64,6 +64,7 @@ python check_tf.py
 ```
 
 - `check_tf.py` prints the TensorFlow version and whether a GPU was found
+- **Not on a Mac?** Remove the `tensorflow-metal` line from `requirements.txt` before installing; it only works on Apple chips
 
 ## Running the notebooks
 
