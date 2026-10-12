@@ -55,7 +55,7 @@ The `data/` folder and the other trained models are not in the repo because they
 Built and tested on a MacBook (M4 Pro), Python 3.12, TensorFlow 2.19.1.
 
 ```bash
-git clone <repo-link>
+git clone https://github.com/gyanesh5522apte-web/plant-disease-detection.git
 cd plant-disease-detection
 conda create -n plant python=3.12
 conda activate plant
@@ -64,7 +64,6 @@ python check_tf.py
 ```
 
 - `check_tf.py` prints the TensorFlow version and whether a GPU was found
-- **Not on a Mac?** Remove the `tensorflow-metal` line from `requirements.txt` before installing; it only works on Apple chips
 
 ## Running the notebooks
 
