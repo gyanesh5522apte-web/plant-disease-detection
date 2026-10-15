@@ -43,7 +43,7 @@ plant-disease-detection/
 │   └── samples/                   test images used in the demo
 ├── models/
 │   └── mobilenet_finetuned.keras  model used by the app (the only model in the repo)
-├── reports/figures/               charts saved by the notebooks
+├── reports/                       evaluation report (PDF) and charts
 ├── slides/                        presentation (PowerPoint)
 ├── check_tf.py                    checks TensorFlow and the GPU
 └── requirements.txt               exact package versions
