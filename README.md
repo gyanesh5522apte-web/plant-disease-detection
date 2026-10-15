@@ -25,7 +25,7 @@ Farmers and farm advisors need a quick first check of leaf diseases, since manua
 | **MobileNetV2 fine-tuned (used in the app)** | **96.8%** | **0.952** | **99.7%** |
 | ResNet50 frozen | 96.7% | 0.958 | 99.7% |
 
-MobileNetV2 fine-tuned is used in the app: about as accurate as ResNet50, 10 times smaller (8.7 MB vs 90 MB), and fewer diseased leaves called healthy (7 vs 13).
+MobileNetV2 fine-tuned is used in the app: about as accurate as ResNet50, 10 times smaller (2.3M vs 23.6M parameters), and fewer diseased leaves called healthy (7 vs 13).
 
 ## Project structure
 

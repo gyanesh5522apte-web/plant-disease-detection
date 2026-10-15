@@ -184,5 +184,5 @@ with st.expander("About the model"):
         "- Data: PlantVillage from TensorFlow Datasets, 18,159 tomato leaf images, 10 classes\n"
         "- Test set: 1,825 images never used in training\n"
         "- Test accuracy 96.8%, macro-F1 0.952, top-3 accuracy 99.7%\n"
-        "- Size: 8.7 MB, about 37 ms per image on a laptop"
+        "- Size: 2.3M parameters, about 37 ms per image on a laptop"
     )
