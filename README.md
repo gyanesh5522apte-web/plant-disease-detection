@@ -106,3 +106,8 @@ The samples are test images the model never saw in training. "Late blight (known
 - Weakest on Early blight (78% found in testing), often confused with Target spot
 - Called 7 of 1,665 diseased test leaves healthy
 - For advice and learning only, not a diagnosis. Always confirm with an agricultural expert
+
+## Use of AI tools
+- I used AI as an assistant during this project: explaining concepts, debugging code, and helping draft notes, the README and the slides
+- I ran and checked all the code myself, and all results come from my own runs
+- The project decisions (scope, models, augmentation, warning level, app design) are mine, based on my results
